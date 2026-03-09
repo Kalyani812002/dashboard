@@ -11,7 +11,8 @@ This project provides a simple and responsive interface for managing users, prod
 
 🔗 https://github.com/Kalyani812002/dashboard
 
-📸 Screenshots
+
+## 📸 Screenshots
 
 Dashboard page
 <img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/313c047f-9744-4762-951d-22b626238622" />
